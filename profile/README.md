@@ -1,4 +1,4 @@
-# Welcome to the Penn State University Organization (psu-edu)!
+# Welcome to the Penn State University Organization!
 
 This a place to start for individual or small groups of users who need only basic Git features.
 
